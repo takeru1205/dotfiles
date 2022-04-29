@@ -1,0 +1,1 @@
+/home/tk/.config/nvim/dein/repos/github.com/preservim/nerdtree/nerdtree_plugin/exec_menuitem.vim

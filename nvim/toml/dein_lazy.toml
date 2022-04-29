@@ -1,0 +1,7 @@
+[[plugins]]
+repo = 'python/black'
+on_ft = ['python']
+[[plugins]]
+repo = 'w0rp/ale'
+on_ft = ['python']
+
